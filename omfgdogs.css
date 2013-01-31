@@ -1,0 +1,13 @@
+body {
+    background-image:url('assets/omfgdogs.gif');
+    background-repeat:repeat
+}
+
+a {
+    font-family: Arial;
+    font-size: 36px;
+    color: yellow;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
